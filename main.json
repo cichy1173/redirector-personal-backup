@@ -1,6 +1,6 @@
 {
     "createdBy": "Redirector v3.5.3",
-    "createdAt": "2022-04-24T16:14:04.936Z",
+    "createdAt": "2022-06-03T12:19:38.329Z",
     "redirects": [
         {
             "description": "TikTok to ProxiTok",
@@ -11,6 +11,23 @@
             "excludePattern": "",
             "patternDesc": "",
             "redirectUrl": "https://proxitok.herokuapp.com/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Twitter to Nitter",
+            "exampleUrl": "https://twitter.com/REVOtoja",
+            "exampleResult": "https://nitter.net/REVOtoja",
+            "error": null,
+            "includePattern": "https://twitter.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://nitter.net/$1",
             "patternType": "W",
             "processMatches": "noProcessing",
             "disabled": false,
