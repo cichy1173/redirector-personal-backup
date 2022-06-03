@@ -1,2 +1,2 @@
 # redirector-personal-backup
-Personal script with redirector  with my own definitions
+Personal Redirector JSON with my own definitions.
