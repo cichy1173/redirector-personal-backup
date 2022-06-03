@@ -1,0 +1,23 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2022-04-24T16:14:04.936Z",
+    "redirects": [
+        {
+            "description": "TikTok to ProxiTok",
+            "exampleUrl": "https://www.tiktok.com/@dzienneklasyki/video/7089540568581180677",
+            "exampleResult": "https://proxitok.herokuapp.com/@dzienneklasyki/video/7089540568581180677",
+            "error": null,
+            "includePattern": "https://www.tiktok.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://proxitok.herokuapp.com/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        }
+    ]
+}
