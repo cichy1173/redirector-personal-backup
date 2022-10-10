@@ -38,10 +38,10 @@
         },
         {
             "description": "Nitter to Nitter-kuba-orlik",
-            "exampleUrl": "https://nitter.com/REVOtoja",
+            "exampleUrl": "https://nitter.net/REVOtoja",
             "exampleResult": "https://nitter.kuba-orlik.name/REVOtoja",
             "error": null,
-            "includePattern": "https://nitter.com/*",
+            "includePattern": "https://nitter.net/*",
             "excludePattern": "",
             "patternDesc": "",
             "redirectUrl": "https://nitter.kuba-orlik.name/$1",
