@@ -35,6 +35,40 @@
             "appliesTo": [
                 "main_frame"
             ]
-        }
+        },
+        {
+            "description": "Nitter to Nitter-kuba-orlik",
+            "exampleUrl": "https://nitter.com/REVOtoja",
+            "exampleResult": "https://nitter.kuba-orlik.name/REVOtoja",
+            "error": null,
+            "includePattern": "https://nitter.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://nitter.kuba-orlik.name/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Twitter Mobile to Nitter",
+            "exampleUrl": "https://mobile.twitter.com/REVOtoja",
+            "exampleResult": "https://nitter.kuba-orlik.name/REVOtoja",
+            "error": null,
+            "includePattern": "https://mobile.twitter.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://nitter.kuba-orlik.name/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
     ]
 }
