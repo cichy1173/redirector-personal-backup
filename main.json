@@ -5,7 +5,7 @@
         {
             "description": "TikTok to ProxiTok",
             "exampleUrl": "https://www.tiktok.com/@dzienneklasyki/video/7089540568581180677",
-            "exampleResult": "https://proxitok.pabloferreiro.es//@dzienneklasyki/video/7089540568581180677",
+            "exampleResult": "https://proxitok.pabloferreiro.es/@dzienneklasyki/video/7089540568581180677",
             "error": null,
             "includePattern": "https://www.tiktok.com/*",
             "excludePattern": "",
